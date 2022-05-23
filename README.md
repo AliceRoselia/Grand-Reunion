@@ -1,2 +1,3 @@
 # Grand Reunion
- The reunion of grand visionaries coming together for something.
+ The reunion of grand visionaries coming together.
+ Messages to my old friends.
