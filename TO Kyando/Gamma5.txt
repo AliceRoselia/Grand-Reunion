@@ -1,0 +1,11 @@
+Hello!
+
+Finally done with DataStructures.jl! Starting Arceus, an ECS based on magic bitboard!
+
+Then, a search framework.
+
+Lots of things in the future.
+Yeah... it's gonna be a bit slow here since I'm likely being stress-tested in real life as well. What doesn't break you makes you stronger right?
+
+Love.
+Bye.
